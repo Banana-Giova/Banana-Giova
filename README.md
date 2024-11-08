@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm studying Python, Java and SQL<br>Full-stack web developing<br>Fun Fact: I'm OP on Pokémon Showdown
+I'm a student, mainly focusing on Python, Java and SQL<br>Full-stack web developing<br>
 
 
 ## 🌐 Socials:

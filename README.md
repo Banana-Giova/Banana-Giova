@@ -8,7 +8,7 @@ I'm a student, mainly focusing on Python, Java and SQL<br>Full-stack web develop
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Banana-Giova&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<!--![](https://github-readme-stats.vercel.app/api?username=Banana-Giova&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>--> 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Banana-Giova&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Banana-Giova&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 

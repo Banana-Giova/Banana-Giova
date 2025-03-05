@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a student, mainly focusing on Python, Java and SQL<br>Full-stack web developing<br>
+I'm a student, mainly focusing on Python, Java, ReactJS and SQL<br>Full-stack web developing<br>
 
 
 ## 🌐 Socials:
